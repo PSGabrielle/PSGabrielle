@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=psgabrielle&color=006bed)
 
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+<img alt="Hey" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+<img alt="Trust" height="300px" width="300px" align="right" src="https://i.giphy.com/media/W7Je6BJvv5CkoRqB9Y/giphy.webp"></img>
 
 <h3>Sobre mim</h3>
 
