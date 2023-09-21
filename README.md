@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novos horizontes.
 - 🎓 Estudando Front End.
-- 🌱 &nbsp; Aprendendo mais sobre React.
+- 🌱 Aprendendo mais sobre React.
 
 <h3>Minhas Skills</h3>
 
@@ -32,5 +32,5 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=gabrielle-ps)](https://www.linkedin.com/in/gabrielle-ps/)
+[![Linkedin](https://img.shields.io/badge/-gabrielleps-blue?style=flat-square&logo=Linkedin&logoColor=white&link=gabrielle-ps)](https://www.linkedin.com/in/gabrielle-ps/)
 [![GitHub](https://img.shields.io/github/followers/psgabrielle?label=follow&style=social)](https://github.com/PSGabrielle)
